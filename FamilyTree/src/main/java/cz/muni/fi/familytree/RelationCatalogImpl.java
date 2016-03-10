@@ -32,5 +32,4 @@ public class RelationCatalogImpl implements RelationCatalog {
     public void deleteRelation(Person parent, Person child) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    
 }

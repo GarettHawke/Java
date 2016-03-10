@@ -60,6 +60,4 @@ public class Marriage {
     public void setSpouse2(Person spouse2) {
         this.spouse2 = spouse2;
     }
-    
-    
 }

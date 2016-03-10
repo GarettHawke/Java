@@ -78,6 +78,4 @@ public class Person {
     public void setDeathPlace(String deathPlace) {
         this.deathPlace = deathPlace;
     }
-    
-    
 }

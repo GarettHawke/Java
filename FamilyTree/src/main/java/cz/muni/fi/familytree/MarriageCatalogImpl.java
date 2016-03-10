@@ -47,5 +47,4 @@ public class MarriageCatalogImpl implements MarriageCatalog {
     public List<Marriage> findAllMarriage() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    
 }
